@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/daily_expenses_tracker/static/css/main.85e7ef30.css",
+    "main.js": "/daily_expenses_tracker/static/js/main.80e9c25e.js",
+    "static/js/239.6cd1f692.chunk.js": "/daily_expenses_tracker/static/js/239.6cd1f692.chunk.js",
+    "static/js/213.39992bf7.chunk.js": "/daily_expenses_tracker/static/js/213.39992bf7.chunk.js",
+    "static/js/732.e6b1b0f6.chunk.js": "/daily_expenses_tracker/static/js/732.e6b1b0f6.chunk.js",
+    "static/js/453.5a3c0610.chunk.js": "/daily_expenses_tracker/static/js/453.5a3c0610.chunk.js",
+    "index.html": "/daily_expenses_tracker/index.html",
+    "main.85e7ef30.css.map": "/daily_expenses_tracker/static/css/main.85e7ef30.css.map",
+    "main.80e9c25e.js.map": "/daily_expenses_tracker/static/js/main.80e9c25e.js.map",
+    "239.6cd1f692.chunk.js.map": "/daily_expenses_tracker/static/js/239.6cd1f692.chunk.js.map",
+    "213.39992bf7.chunk.js.map": "/daily_expenses_tracker/static/js/213.39992bf7.chunk.js.map",
+    "732.e6b1b0f6.chunk.js.map": "/daily_expenses_tracker/static/js/732.e6b1b0f6.chunk.js.map",
+    "453.5a3c0610.chunk.js.map": "/daily_expenses_tracker/static/js/453.5a3c0610.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e7ef30.css",
+    "static/js/main.80e9c25e.js"
+  ]
+}
